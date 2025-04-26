@@ -28,8 +28,7 @@
 1. git clone project
 
 ```
-git clone https://github.com/ChenxiiCheng/NextJS-DjangoREST-Blog.git
-cd NextJS-DjangoREST-Blog
+git clone https://github.com/honey0120/django-next.js-blog.git
 ```
 
 2. server side
